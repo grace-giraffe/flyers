@@ -1,15 +1,48 @@
-.header{
-    text-align:center;
-    font-family:cursive;
-    position:relative;
+.header {
+    text-align: center;
+    font-family: cursive;
+    position: relative;
+    font-size: 25px;
+    color:Green;
 }
-body{
-    background-color:lightblue;
+
+body {
+    background-color: lightblue;
 }
-img{
-    height:60px;
-    width:60px;
-    position:absolute;
-    top:15px;
-    left:300px;
+
+#two {
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: -210px;
+    left: 475px;
+}
+
+#one {
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: -205px;
+    left: 475px;
+}
+
+.name {
+    position: relative;
+    top: 200px;
+    left: 535px;
+    font-size: 25px;
+}
+
+.info {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.contact {
+    text-align: center;
+    position: relative;
+    top: -250px;
+    left: 30px;
+    font-size: 30px;
 }
